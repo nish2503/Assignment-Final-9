@@ -42,7 +42,7 @@ body{
 	bottom: 16%;
 	max-width: 400px;
 	padding-left: 30px;
-	border-left: 5px solid rgb(110, 216, 211);
+	border-left: 5px solid rgb(241, 109, 208);
 }
 .t-left p{
 	color: #ada9a9;
@@ -58,7 +58,7 @@ body{
 	max-width: 400px;
 	padding-right: 50px;
     padding-left: 30px;
-    border-left: 5px solid rgb(110, 216, 211);
+    border-left: 5px solid rgb(216, 110, 184);
 }
 .t-right p{
 	color: rgb(14, 13, 13);
@@ -127,7 +127,7 @@ background: linear-gradient(to left, #3FE8D7 0%, #E0FCFF 50%, #FFFF00 59%);
 }
 
 .menu a:first-child{
-	color: #ffd900;
+	color: #ff00f2;
 }
 .menu a:hover{
 	color: #92f1f1;
@@ -166,10 +166,10 @@ background: linear-gradient(to left, #3FE8D7 0%, #E0FCFF 50%, #FFFF00 59%);
     padding-left: 30px;
 }
 .htext h1 span{
-	color:#88d0d6;
+	color:#da3ab7;
 	text-shadow: 2px 3px 5px rgb(68, 61, 0);
     
 }
 .home{
-    color: #ffd900;
+    color: #fcbcf9;
 }
